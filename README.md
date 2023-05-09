@@ -5,5 +5,5 @@ It uses two directories which contain the pictures in png format for the planets
 
 ![Screenshot (15)](https://github.com/nagydavid04/Solar_system_simulation/assets/132921246/a1e9eb35-e554-401a-97ec-96a7427b360c)
 
-# Surface
+Surface
 ![Screenshot (16)](https://github.com/nagydavid04/Solar_system_simulation/assets/132921246/30b5ff08-c813-48fd-8ffc-5c1d1902ae14)
